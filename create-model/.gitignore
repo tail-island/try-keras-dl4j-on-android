@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+docker-compose.yml
+
+.DS_Store
+jellyfish_eye.h5
